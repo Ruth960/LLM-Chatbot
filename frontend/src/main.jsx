@@ -120,7 +120,7 @@ const App = () => {
         ) : (
           <div style={{ backgroundColor: 'white', borderRadius: '8px', boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)', padding: '1.5rem' }}>
             <div style={{ textAlign: 'center' }}>
-              <h1 style={{ fontSize: '1.5rem', fontWeight: 'bold', marginBottom: '1rem' }}>Crop Disease Identifer</h1>
+              <h1 style={{ fontSize: '1.5rem', fontWeight: 'bold', marginBottom: '1rem' }}>Telephone farming Cortana</h1>
               <p style={{ color: '#4a5568', marginBottom: '1.5rem' }}>
                 Upload or take a picture of your crop, and our system will  identify potential diseases or pests and give you a solution.
               </p>
